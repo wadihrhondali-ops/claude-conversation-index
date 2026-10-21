@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+
+# Never commit real data to this repository: see docs/privacy.md.
+*.real.csv
+*.real.json

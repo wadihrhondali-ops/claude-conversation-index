@@ -1,0 +1,7 @@
+uuid,title,created_at,updated_at,project_uuid,project_name
+00e01b47-6fda-468d-9db9-63c3a388a7fa,SHOULD NOT APPEAR (older delta),,2026-01-25T12:00:00.000Z,p-bravo,Project Bravo
+0156ab3d-d4e2-4271-b80c-2de17d642326,Delta-newer trap (fresh title applied),,2026-01-30T11:00:00.000Z,p-bravo,Project Bravo
+011f88b5-e83a-45b9-9eec-0ad043b8dc68,Delta-only trap,2026-01-28T12:00:00.000Z,2026-01-30T10:00:00.000Z,p-ember,Project Ember
+01ebb6a6-b755-4a0b-ae43-71f4fab4f897,SHOULD NOT APPEAR (no updated_at in delta),,,p-bravo,Project Bravo
+032a23b3-6c4f-47f9-a593-5e408d4ad52c,Mapping-protects-project trap (fresh title applied),,2026-01-30T11:00:00.000Z,p-flux,Project Flux
+004b2d1a-e639-4f1e-8bcd-1a1c1f01b599,Delta-project-without-mapping trap (delta applied),,2026-01-30T11:00:00.000Z,p-flux,Project Flux

@@ -1,0 +1,3 @@
+uuid,title,inferred_title,inferred_title_source,created_at,updated_at,message_count,summary_excerpt,first_message_excerpt,project_name,project_uuid,project_source,project_previous_index,project_changed,source_line,link,content_source
+01001861-cb5b-4df9-befc-eebdc5e8d47e,Previous-index-only trap,,,2025-07-14T12:00:00.000Z,2025-07-24T12:00:00.000Z,8,,,Project Comet,,mapping,,,export+mapping,,export
+03b9d83a-7fae-4913-af1b-d97ea46832ab,Old-created-recent-update trap (previous title),,,2025-07-14T12:00:00.000Z,2025-12-01T12:00:00.000Z,4,,,Project Driftwood,,mapping,,,export+mapping,,export

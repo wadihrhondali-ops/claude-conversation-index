@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "claude-conversation-index"
+version = "1.0.0"
+description = "Build and search a CSV index of your Claude.ai conversations, enriched with your own conversation-to-project mapping."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+keywords = ["claude", "anthropic", "conversations", "export", "index", "csv"]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Utilities",
+    "Intended Audience :: End Users/Desktop",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/wadihrhondali-ops/claude-conversation-index"
+
+[project.scripts]
+claude-index-build = "claude_conversation_index.build_index:main"
+claude-index-consult = "claude_conversation_index.consult:main"
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

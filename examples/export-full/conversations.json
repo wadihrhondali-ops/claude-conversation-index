@@ -1,0 +1,2969 @@
+[
+  {
+    "uuid": "00e01b47-6fda-468d-9db9-63c3a388a7fa",
+    "name": "Delta-older trap",
+    "summary": "A fictional summary about a fictional delta-older case.",
+    "created_at": "2026-01-20T12:00:00.000Z",
+    "updated_at": "2026-01-29T12:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-e6f63600",
+        "sender": "human",
+        "text": "Can you help me think through a fictional delta-older case? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-2a5c679f",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a fictional delta-older case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-abfe66c1",
+        "sender": "human",
+        "text": "Fictional reply #2 about a fictional delta-older case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-09c7e609",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a fictional delta-older case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "0156ab3d-d4e2-4271-b80c-2de17d642326",
+    "name": "Delta-newer trap (stale title)",
+    "summary": "A fictional summary about a fictional delta-newer case.",
+    "created_at": "2026-01-18T12:00:00.000Z",
+    "updated_at": "2026-01-27T12:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-76914312",
+        "sender": "human",
+        "text": "Can you help me think through a fictional delta-newer case? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-c580e359",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a fictional delta-newer case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-0d947b7a",
+        "sender": "human",
+        "text": "Fictional reply #2 about a fictional delta-newer case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-056f0287",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a fictional delta-newer case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "005e3bb0-c6dd-4625-a22d-c9b6d94f2d01",
+    "name": "",
+    "summary": "A fictional summary used to infer a title for this untitled case.",
+    "created_at": "2026-01-26T12:00:00.000Z",
+    "updated_at": "2026-01-28T12:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-6aa8122c",
+        "sender": "human",
+        "text": "Can you help me think through a fictional untitled case? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-b3465f3e",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a fictional untitled case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-07ccd506",
+        "sender": "human",
+        "text": "Fictional reply #2 about a fictional untitled case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-934cd470",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a fictional untitled case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "03b2ecdf-905c-4b55-88c0-ae3fda26f53d",
+    "name": "No-project trap",
+    "summary": "A fictional summary about a fictional unassigned case.",
+    "created_at": "2026-01-24T12:00:00.000Z",
+    "updated_at": "2026-01-25T12:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-72e538e1",
+        "sender": "human",
+        "text": "Can you help me think through a fictional unassigned case? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d63853ef",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a fictional unassigned case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-fba81290",
+        "sender": "human",
+        "text": "Fictional reply #2 about a fictional unassigned case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-1ddda94c",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a fictional unassigned case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "03b9d83a-7fae-4913-af1b-d97ea46832ab",
+    "name": "Old-created-recent-update trap",
+    "summary": "A fictional summary about a fictional case created long ago and updated recently.",
+    "created_at": "2025-07-14T12:00:00.000Z",
+    "updated_at": "2026-01-25T12:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-e7edb19a",
+        "sender": "human",
+        "text": "Can you help me think through a fictional case created long ago and updated recently? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-271afdc2",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a fictional case created long ago and updated recently.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-4be93bde",
+        "sender": "human",
+        "text": "Fictional reply #2 about a fictional case created long ago and updated recently.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d8ad529a",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a fictional case created long ago and updated recently.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-751cfd20",
+        "sender": "human",
+        "text": "Fictional reply #4 about a fictional case created long ago and updated recently.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-8cdb3745",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about a fictional case created long ago and updated recently.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "01ebb6a6-b755-4a0b-ae43-71f4fab4f897",
+    "name": "Delta-without-updated_at trap (unchanged)",
+    "summary": "A fictional summary about a fictional delta-without-updated_at case.",
+    "created_at": "2026-01-22T12:00:00.000Z",
+    "updated_at": "2026-01-26T12:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-ab4f74d2",
+        "sender": "human",
+        "text": "Can you help me think through a fictional delta-without-updated_at case? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-fd2b38ae",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a fictional delta-without-updated_at case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-2a370c00",
+        "sender": "human",
+        "text": "Fictional reply #2 about a fictional delta-without-updated_at case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-91ceebda",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a fictional delta-without-updated_at case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "032a23b3-6c4f-47f9-a593-5e408d4ad52c",
+    "name": "Mapping-protects-project trap (stale title)",
+    "summary": "A fictional summary about a fictional mapping-protects-project case.",
+    "created_at": "2026-01-21T12:00:00.000Z",
+    "updated_at": "2026-01-27T12:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-74f4545d",
+        "sender": "human",
+        "text": "Can you help me think through a fictional mapping-protects-project case? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-22010a67",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a fictional mapping-protects-project case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-8a5892af",
+        "sender": "human",
+        "text": "Fictional reply #2 about a fictional mapping-protects-project case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-02df5ff3",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a fictional mapping-protects-project case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "004b2d1a-e639-4f1e-8bcd-1a1c1f01b599",
+    "name": "Delta-project-without-mapping trap",
+    "summary": "A fictional summary about a fictional case with no mapping row.",
+    "created_at": "2026-01-19T12:00:00.000Z",
+    "updated_at": "2026-01-26T12:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-56e4cc36",
+        "sender": "human",
+        "text": "Can you help me think through a fictional case with no mapping row? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-3d48dc0a",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a fictional case with no mapping row.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-4dfe68a0",
+        "sender": "human",
+        "text": "Fictional reply #2 about a fictional case with no mapping row.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-29c31dd4",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a fictional case with no mapping row.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "03c7d088-9695-43cd-970a-2b6e4cf0628a",
+    "name": "Search-probe trap",
+    "summary": "A fictional summary about a fictional search probe case.",
+    "created_at": "2026-01-23T12:00:00.000Z",
+    "updated_at": "2026-01-29T12:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-d434b76f",
+        "sender": "human",
+        "text": "Can you help me think through a fictional search probe case? This is a fictional message. Let's call this the widget workshop for short.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-26174471",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a fictional search probe case. More on the widget workshop. Also some gizmo parts notes.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-ce4d164a",
+        "sender": "human",
+        "text": "Fictional reply #2 about a fictional search probe case. More on the widget workshop. Also some gizmo parts notes.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-5a463f08",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a fictional search probe case. More on the widget workshop. Also some gizmo parts notes.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-20b6c8a5",
+        "sender": "human",
+        "text": "Fictional reply #4 about a fictional search probe case. More on the widget workshop.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-5c4b72cf",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about a fictional search probe case.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "02026213-8314-42a9-90e3-24ebbbff132d",
+    "name": "Fictional thread about a weeknight pasta recipe",
+    "summary": "A fictional summary about a weeknight pasta recipe.",
+    "created_at": "2026-01-04T22:00:00.000Z",
+    "updated_at": "2026-01-05T07:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-eb62cf7e",
+        "sender": "human",
+        "text": "Can you help me think through a weeknight pasta recipe? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-0d0ed5e4",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a weeknight pasta recipe.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-41ecf5bb",
+        "sender": "human",
+        "text": "Fictional reply #2 about a weeknight pasta recipe.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-685bf636",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a weeknight pasta recipe.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-b38af4a1",
+        "sender": "human",
+        "text": "Fictional reply #4 about a weeknight pasta recipe.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "018326d8-e56e-4575-864c-da3743100606",
+    "name": "Fictional thread about a fictional planet's weather patterns",
+    "summary": "A fictional summary about a fictional planet's weather patterns.",
+    "created_at": "2026-01-02T18:00:00.000Z",
+    "updated_at": "2026-01-04T14:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-584ccb4e",
+        "sender": "human",
+        "text": "Can you help me think through a fictional planet's weather patterns? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-b04a3e82",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a fictional planet's weather patterns.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-445d1f6d",
+        "sender": "human",
+        "text": "Fictional reply #2 about a fictional planet's weather patterns.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-17f403c7",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a fictional planet's weather patterns.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-0f0f2141",
+        "sender": "human",
+        "text": "Fictional reply #4 about a fictional planet's weather patterns.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-5702c360",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about a fictional planet's weather patterns.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-8de866e5",
+        "sender": "human",
+        "text": "Fictional reply #6 about a fictional planet's weather patterns.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-da474353",
+        "sender": "assistant",
+        "text": "Fictional reply #7 about a fictional planet's weather patterns.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-1ffe168b",
+        "sender": "human",
+        "text": "Fictional reply #8 about a fictional planet's weather patterns.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "01d56ce6-349b-420b-a425-eb40fd6157ab",
+    "name": "Fictional thread about a short story about a lighthouse keeper",
+    "summary": "A fictional summary about a short story about a lighthouse keeper.",
+    "created_at": "2026-01-19T06:00:00.000Z",
+    "updated_at": "2026-01-20T05:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-a0aeb432",
+        "sender": "human",
+        "text": "Can you help me think through a short story about a lighthouse keeper? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-a016efa0",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a short story about a lighthouse keeper.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-fd6a0938",
+        "sender": "human",
+        "text": "Fictional reply #2 about a short story about a lighthouse keeper.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-090d67fc",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a short story about a lighthouse keeper.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "00fb8352-89d1-43a2-9618-b65703b1bc9f",
+    "name": "Fictional thread about garden layout ideas for a balcony",
+    "summary": "A fictional summary about garden layout ideas for a balcony.",
+    "created_at": "2025-12-28T05:00:00.000Z",
+    "updated_at": "2025-12-28T11:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-b6f919af",
+        "sender": "human",
+        "text": "Can you help me think through garden layout ideas for a balcony? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-54eb283f",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about garden layout ideas for a balcony.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d0179047",
+        "sender": "human",
+        "text": "Fictional reply #2 about garden layout ideas for a balcony.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-1027a6f0",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about garden layout ideas for a balcony.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-762454cb",
+        "sender": "human",
+        "text": "Fictional reply #4 about garden layout ideas for a balcony.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-1af7bb1d",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about garden layout ideas for a balcony.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "02aeb395-df4d-4b26-be9f-106ebc6a61a5",
+    "name": "Fictional thread about a workout routine for beginners",
+    "summary": "A fictional summary about a workout routine for beginners.",
+    "created_at": "2025-12-25T23:00:00.000Z",
+    "updated_at": "2025-12-27T11:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-2a9043aa",
+        "sender": "human",
+        "text": "Can you help me think through a workout routine for beginners? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-f9f4b8a1",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a workout routine for beginners.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "01f5b6b1-d957-49c5-bffa-a11043b0895a",
+    "name": "Fictional thread about notes for a book club discussion",
+    "summary": "A fictional summary about notes for a book club discussion.",
+    "created_at": "2026-01-17T15:00:00.000Z",
+    "updated_at": "2026-01-19T13:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-02b8bc88",
+        "sender": "human",
+        "text": "Can you help me think through notes for a book club discussion? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-baacd0c1",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about notes for a book club discussion.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-838e87ed",
+        "sender": "human",
+        "text": "Fictional reply #2 about notes for a book club discussion.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-c34a8e6c",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about notes for a book club discussion.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-9947d215",
+        "sender": "human",
+        "text": "Fictional reply #4 about notes for a book club discussion.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-14f83d88",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about notes for a book club discussion.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-22d044e0",
+        "sender": "human",
+        "text": "Fictional reply #6 about notes for a book club discussion.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "00847cbd-4ba2-416c-bd48-4aa5ecc91e7f",
+    "name": "Fictional thread about debugging a sorting function",
+    "summary": "A fictional summary about debugging a sorting function.",
+    "created_at": "2026-01-11T12:00:00.000Z",
+    "updated_at": "2026-01-12T18:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-205cc77b",
+        "sender": "human",
+        "text": "Can you help me think through debugging a sorting function? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-b591467e",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about debugging a sorting function.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-266852b7",
+        "sender": "human",
+        "text": "Fictional reply #2 about debugging a sorting function.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-fb04c69e",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about debugging a sorting function.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-ddffec37",
+        "sender": "human",
+        "text": "Fictional reply #4 about debugging a sorting function.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-77c7a5b2",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about debugging a sorting function.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-e9e1ca69",
+        "sender": "human",
+        "text": "Fictional reply #6 about debugging a sorting function.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-062704c9",
+        "sender": "assistant",
+        "text": "Fictional reply #7 about debugging a sorting function.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-dd04d5a1",
+        "sender": "human",
+        "text": "Fictional reply #8 about debugging a sorting function.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "03d22204-49bf-4392-a6ca-95c93e6947dc",
+    "name": "Fictional thread about a travel itinerary for a long weekend",
+    "summary": "A fictional summary about a travel itinerary for a long weekend.",
+    "created_at": "2025-12-20T08:00:00.000Z",
+    "updated_at": "2025-12-21T01:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-487cece4",
+        "sender": "human",
+        "text": "Can you help me think through a travel itinerary for a long weekend? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-4f823cc1",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a travel itinerary for a long weekend.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-03615d8b",
+        "sender": "human",
+        "text": "Fictional reply #2 about a travel itinerary for a long weekend.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-f063da3c",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a travel itinerary for a long weekend.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-4270c3c9",
+        "sender": "human",
+        "text": "Fictional reply #4 about a travel itinerary for a long weekend.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-4fb76f7b",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about a travel itinerary for a long weekend.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-b9c02b0d",
+        "sender": "human",
+        "text": "Fictional reply #6 about a travel itinerary for a long weekend.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-84d9d037",
+        "sender": "assistant",
+        "text": "Fictional reply #7 about a travel itinerary for a long weekend.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "017f6f84-0e2e-449a-b7a8-5ade063c4386",
+    "name": "Fictional thread about budget spreadsheet formulas",
+    "summary": "A fictional summary about budget spreadsheet formulas.",
+    "created_at": "2026-01-08T18:00:00.000Z",
+    "updated_at": "2026-01-08T23:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-712fc164",
+        "sender": "human",
+        "text": "Can you help me think through budget spreadsheet formulas? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d3b0bd29",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about budget spreadsheet formulas.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d89aa654",
+        "sender": "human",
+        "text": "Fictional reply #2 about budget spreadsheet formulas.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-553b44b7",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about budget spreadsheet formulas.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-2566e6f9",
+        "sender": "human",
+        "text": "Fictional reply #4 about budget spreadsheet formulas.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-f1308292",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about budget spreadsheet formulas.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-4999d527",
+        "sender": "human",
+        "text": "Fictional reply #6 about budget spreadsheet formulas.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "00889979-83da-4776-9edd-789c30dadb41",
+    "name": "Fictional thread about a lesson plan about photosynthesis",
+    "summary": "A fictional summary about a lesson plan about photosynthesis.",
+    "created_at": "2026-01-29T18:00:00.000Z",
+    "updated_at": "2026-01-30T12:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-61a43c5a",
+        "sender": "human",
+        "text": "Can you help me think through a lesson plan about photosynthesis? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d8a81b9b",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a lesson plan about photosynthesis.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "030080e6-cca0-44c3-9b0a-22c4ba421b18",
+    "name": "Fictional thread about naming ideas for a pet turtle",
+    "summary": "A fictional summary about naming ideas for a pet turtle.",
+    "created_at": "2026-01-23T18:00:00.000Z",
+    "updated_at": "2026-01-25T01:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-24859652",
+        "sender": "human",
+        "text": "Can you help me think through naming ideas for a pet turtle? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-3323682b",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about naming ideas for a pet turtle.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-43444aaa",
+        "sender": "human",
+        "text": "Fictional reply #2 about naming ideas for a pet turtle.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-2f277f94",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about naming ideas for a pet turtle.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-b8e9a28b",
+        "sender": "human",
+        "text": "Fictional reply #4 about naming ideas for a pet turtle.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-47ad84ac",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about naming ideas for a pet turtle.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-f4108712",
+        "sender": "human",
+        "text": "Fictional reply #6 about naming ideas for a pet turtle.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-ce053d87",
+        "sender": "assistant",
+        "text": "Fictional reply #7 about naming ideas for a pet turtle.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "028a5245-aa34-470d-8cd8-7de8653c0d0a",
+    "name": "Fictional thread about a packing list for a camping trip",
+    "summary": "A fictional summary about a packing list for a camping trip.",
+    "created_at": "2025-12-26T07:00:00.000Z",
+    "updated_at": "2025-12-26T08:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-69935564",
+        "sender": "human",
+        "text": "Can you help me think through a packing list for a camping trip? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-3ceda5f4",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a packing list for a camping trip.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-c4e36cb2",
+        "sender": "human",
+        "text": "Fictional reply #2 about a packing list for a camping trip.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-e288e3d9",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a packing list for a camping trip.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d031b436",
+        "sender": "human",
+        "text": "Fictional reply #4 about a packing list for a camping trip.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "0323e7ea-eb55-4ea8-b472-c043f6c09814",
+    "name": "Fictional thread about a crossword puzzle theme",
+    "summary": "A fictional summary about a crossword puzzle theme.",
+    "created_at": "2026-01-29T18:00:00.000Z",
+    "updated_at": "2026-01-30T12:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-5da5943f",
+        "sender": "human",
+        "text": "Can you help me think through a crossword puzzle theme? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d07ab26c",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a crossword puzzle theme.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-5603332f",
+        "sender": "human",
+        "text": "Fictional reply #2 about a crossword puzzle theme.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-52dac64c",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a crossword puzzle theme.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "016fd612-4144-4697-92b3-a6a8b1bf2963",
+    "name": "Fictional thread about tips for a sourdough starter",
+    "summary": "A fictional summary about tips for a sourdough starter.",
+    "created_at": "2026-01-10T01:00:00.000Z",
+    "updated_at": "2026-01-10T02:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-2858caa1",
+        "sender": "human",
+        "text": "Can you help me think through tips for a sourdough starter? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-8f9cf700",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about tips for a sourdough starter.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-0c6abae6",
+        "sender": "human",
+        "text": "Fictional reply #2 about tips for a sourdough starter.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-bbc61b46",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about tips for a sourdough starter.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-e697ee42",
+        "sender": "human",
+        "text": "Fictional reply #4 about tips for a sourdough starter.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-dd305df2",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about tips for a sourdough starter.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-e7867584",
+        "sender": "human",
+        "text": "Fictional reply #6 about tips for a sourdough starter.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-02b4e8a2",
+        "sender": "assistant",
+        "text": "Fictional reply #7 about tips for a sourdough starter.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "023a4fd7-2cb3-4fe1-9283-7298be019e1c",
+    "name": "Fictional thread about a board game house rules draft",
+    "summary": "A fictional summary about a board game house rules draft.",
+    "created_at": "2026-01-30T10:00:00.000Z",
+    "updated_at": "2026-01-30T12:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-ab3b36d1",
+        "sender": "human",
+        "text": "Can you help me think through a board game house rules draft? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-1842eddb",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a board game house rules draft.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-488ec240",
+        "sender": "human",
+        "text": "Fictional reply #2 about a board game house rules draft.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-20f9c496",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a board game house rules draft.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-7811a026",
+        "sender": "human",
+        "text": "Fictional reply #4 about a board game house rules draft.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-5b4dcf34",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about a board game house rules draft.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-93b6f85c",
+        "sender": "human",
+        "text": "Fictional reply #6 about a board game house rules draft.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-604b36fd",
+        "sender": "assistant",
+        "text": "Fictional reply #7 about a board game house rules draft.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "00366627-9ce5-4ae9-914e-9134e36066f1",
+    "name": "Fictional thread about a poem about autumn leaves",
+    "summary": "A fictional summary about a poem about autumn leaves.",
+    "created_at": "2025-12-11T00:00:00.000Z",
+    "updated_at": "2025-12-12T20:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-4b15f1b2",
+        "sender": "human",
+        "text": "Can you help me think through a poem about autumn leaves? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-25635be0",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a poem about autumn leaves.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "02d689b1-9453-4d1b-82a8-bf9af688633b",
+    "name": "Fictional thread about a checklist for a garage sale",
+    "summary": "A fictional summary about a checklist for a garage sale.",
+    "created_at": "2025-12-19T22:00:00.000Z",
+    "updated_at": "2025-12-20T03:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-2e28575c",
+        "sender": "human",
+        "text": "Can you help me think through a checklist for a garage sale? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-9bd311ef",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a checklist for a garage sale.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d16906c3",
+        "sender": "human",
+        "text": "Fictional reply #2 about a checklist for a garage sale.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-df5ca76b",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a checklist for a garage sale.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "029e98d6-cafc-4be9-80f4-951c501ba7de",
+    "name": "Fictional thread about notes on an imaginary constellation",
+    "summary": "A fictional summary about notes on an imaginary constellation.",
+    "created_at": "2026-01-03T12:00:00.000Z",
+    "updated_at": "2026-01-04T15:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-7b54136a",
+        "sender": "human",
+        "text": "Can you help me think through notes on an imaginary constellation? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-c21e6ac5",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about notes on an imaginary constellation.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "006d9f80-01cd-483a-8d41-df6d829b7cc0",
+    "name": "Fictional thread about a practice quiz about fractions",
+    "summary": "A fictional summary about a practice quiz about fractions.",
+    "created_at": "2026-01-28T18:00:00.000Z",
+    "updated_at": "2026-01-29T08:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-265b8b5d",
+        "sender": "human",
+        "text": "Can you help me think through a practice quiz about fractions? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-a3c6edec",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a practice quiz about fractions.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d75c140d",
+        "sender": "human",
+        "text": "Fictional reply #2 about a practice quiz about fractions.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-cebe4888",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a practice quiz about fractions.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-dd4f9826",
+        "sender": "human",
+        "text": "Fictional reply #4 about a practice quiz about fractions.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-c2e05167",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about a practice quiz about fractions.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-0a943891",
+        "sender": "human",
+        "text": "Fictional reply #6 about a practice quiz about fractions.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-a41069a8",
+        "sender": "assistant",
+        "text": "Fictional reply #7 about a practice quiz about fractions.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-3e58180e",
+        "sender": "human",
+        "text": "Fictional reply #8 about a practice quiz about fractions.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-debab923",
+        "sender": "assistant",
+        "text": "Fictional reply #9 about a practice quiz about fractions.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "01e481ad-1d77-49e1-b0cb-98b6452957bb",
+    "name": "Fictional thread about ideas for a neighborhood picnic",
+    "summary": "A fictional summary about ideas for a neighborhood picnic.",
+    "created_at": "2026-01-22T22:00:00.000Z",
+    "updated_at": "2026-01-22T22:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-5aa71837",
+        "sender": "human",
+        "text": "Can you help me think through ideas for a neighborhood picnic? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-fd5517aa",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about ideas for a neighborhood picnic.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-b5a71aad",
+        "sender": "human",
+        "text": "Fictional reply #2 about ideas for a neighborhood picnic.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-68ec554f",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about ideas for a neighborhood picnic.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-7baba336",
+        "sender": "human",
+        "text": "Fictional reply #4 about ideas for a neighborhood picnic.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-dcf6e805",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about ideas for a neighborhood picnic.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d46c1efb",
+        "sender": "human",
+        "text": "Fictional reply #6 about ideas for a neighborhood picnic.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-9bff94e3",
+        "sender": "assistant",
+        "text": "Fictional reply #7 about ideas for a neighborhood picnic.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-df9cdd2a",
+        "sender": "human",
+        "text": "Fictional reply #8 about ideas for a neighborhood picnic.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "014c9b9b-ba53-418c-b383-0c4bd0410db2",
+    "name": "Fictional thread about a playlist for a road trip",
+    "summary": "A fictional summary about a playlist for a road trip.",
+    "created_at": "2025-12-09T14:00:00.000Z",
+    "updated_at": "2025-12-10T09:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-5423eba2",
+        "sender": "human",
+        "text": "Can you help me think through a playlist for a road trip? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-0d36919b",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a playlist for a road trip.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d1eb880d",
+        "sender": "human",
+        "text": "Fictional reply #2 about a playlist for a road trip.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-f15e436a",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a playlist for a road trip.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-45251e9f",
+        "sender": "human",
+        "text": "Fictional reply #4 about a playlist for a road trip.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-2d44837e",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about a playlist for a road trip.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-a22aae29",
+        "sender": "human",
+        "text": "Fictional reply #6 about a playlist for a road trip.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-af88368e",
+        "sender": "assistant",
+        "text": "Fictional reply #7 about a playlist for a road trip.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "00fa02df-673e-4f8d-8099-13d18933e2ba",
+    "name": "Fictional thread about a template for a weekly chore chart",
+    "summary": "A fictional summary about a template for a weekly chore chart.",
+    "created_at": "2025-12-03T20:00:00.000Z",
+    "updated_at": "2025-12-03T20:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-9adc3661",
+        "sender": "human",
+        "text": "Can you help me think through a template for a weekly chore chart? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-2f4fd7cf",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a template for a weekly chore chart.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "03b825e1-8ba3-4b2a-9651-c470a00bf58c",
+    "name": "Fictional thread about a comparison of two fictional cities",
+    "summary": "A fictional summary about a comparison of two fictional cities.",
+    "created_at": "2025-12-14T14:00:00.000Z",
+    "updated_at": "2025-12-16T00:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-4d82d21e",
+        "sender": "human",
+        "text": "Can you help me think through a comparison of two fictional cities? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-0baa6b79",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a comparison of two fictional cities.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-a06e9cfc",
+        "sender": "human",
+        "text": "Fictional reply #2 about a comparison of two fictional cities.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-bc7e9c1d",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a comparison of two fictional cities.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "01b9348b-703b-43ec-acf7-0393effe4588",
+    "name": "Fictional thread about a bedtime story about a kind dragon",
+    "summary": "A fictional summary about a bedtime story about a kind dragon.",
+    "created_at": "2026-01-24T10:00:00.000Z",
+    "updated_at": "2026-01-24T18:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-fead6c5f",
+        "sender": "human",
+        "text": "Can you help me think through a bedtime story about a kind dragon? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d4e22896",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a bedtime story about a kind dragon.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-1dea0f54",
+        "sender": "human",
+        "text": "Fictional reply #2 about a bedtime story about a kind dragon.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-ec3bd257",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a bedtime story about a kind dragon.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-4cc2f076",
+        "sender": "human",
+        "text": "Fictional reply #4 about a bedtime story about a kind dragon.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-4c9f6973",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about a bedtime story about a kind dragon.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "037c50a0-f407-4470-b485-5eb176f44b99",
+    "name": "Fictional thread about a outline for a woodworking project",
+    "summary": "A fictional summary about a outline for a woodworking project.",
+    "created_at": "2026-01-28T13:00:00.000Z",
+    "updated_at": "2026-01-29T08:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-85aae75f",
+        "sender": "human",
+        "text": "Can you help me think through a outline for a woodworking project? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-58baf530",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a outline for a woodworking project.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-793f6f29",
+        "sender": "human",
+        "text": "Fictional reply #2 about a outline for a woodworking project.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-6550431d",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a outline for a woodworking project.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-e8cab8d0",
+        "sender": "human",
+        "text": "Fictional reply #4 about a outline for a woodworking project.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-bb6fbe38",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about a outline for a woodworking project.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "03f092f8-ebdd-44d8-8e10-b78d83840d36",
+    "name": "Fictional thread about a plan for a herb garden",
+    "summary": "A fictional summary about a plan for a herb garden.",
+    "created_at": "2025-12-22T10:00:00.000Z",
+    "updated_at": "2025-12-23T20:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-7126b885",
+        "sender": "human",
+        "text": "Can you help me think through a plan for a herb garden? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-85a5c12e",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a plan for a herb garden.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-f1ee55ef",
+        "sender": "human",
+        "text": "Fictional reply #2 about a plan for a herb garden.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-31b989a1",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a plan for a herb garden.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-72743140",
+        "sender": "human",
+        "text": "Fictional reply #4 about a plan for a herb garden.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "029ba206-bfd4-4f6c-baf6-4e205c93dfd0",
+    "name": "Fictional thread about notes on an imaginary board game",
+    "summary": "A fictional summary about notes on an imaginary board game.",
+    "created_at": "2025-12-12T16:00:00.000Z",
+    "updated_at": "2025-12-13T13:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-ebff6009",
+        "sender": "human",
+        "text": "Can you help me think through notes on an imaginary board game? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-85b7eb75",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about notes on an imaginary board game.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-15ea8061",
+        "sender": "human",
+        "text": "Fictional reply #2 about notes on an imaginary board game.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-4e839d2c",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about notes on an imaginary board game.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-adef6b8a",
+        "sender": "human",
+        "text": "Fictional reply #4 about notes on an imaginary board game.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "01579b27-ad6e-4109-b000-83787f964d81",
+    "name": "Fictional thread about a recipe for vegetable soup",
+    "summary": "A fictional summary about a recipe for vegetable soup.",
+    "created_at": "2026-01-11T19:00:00.000Z",
+    "updated_at": "2026-01-12T01:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-7d8c63d9",
+        "sender": "human",
+        "text": "Can you help me think through a recipe for vegetable soup? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-6f3c7085",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a recipe for vegetable soup.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-d063503f",
+        "sender": "human",
+        "text": "Fictional reply #2 about a recipe for vegetable soup.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "02f9bfd2-8402-4d10-8047-cfe197005574",
+    "name": "Fictional thread about a draft toast for a birthday party",
+    "summary": "A fictional summary about a draft toast for a birthday party.",
+    "created_at": "2025-12-21T12:00:00.000Z",
+    "updated_at": "2025-12-23T06:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-2d8c7e0a",
+        "sender": "human",
+        "text": "Can you help me think through a draft toast for a birthday party? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-9cde7187",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a draft toast for a birthday party.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-b3f3e0d9",
+        "sender": "human",
+        "text": "Fictional reply #2 about a draft toast for a birthday party.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-af886353",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a draft toast for a birthday party.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-70bcc4cf",
+        "sender": "human",
+        "text": "Fictional reply #4 about a draft toast for a birthday party.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-b605cc0c",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about a draft toast for a birthday party.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-f5c080e7",
+        "sender": "human",
+        "text": "Fictional reply #6 about a draft toast for a birthday party.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-61f4d8b4",
+        "sender": "assistant",
+        "text": "Fictional reply #7 about a draft toast for a birthday party.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "02755d7a-8289-429d-b5da-c14bb97ed7cb",
+    "name": "Fictional thread about a study plan for a trivia night",
+    "summary": "A fictional summary about a study plan for a trivia night.",
+    "created_at": "2026-01-25T21:00:00.000Z",
+    "updated_at": "2026-01-26T17:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-4004482c",
+        "sender": "human",
+        "text": "Can you help me think through a study plan for a trivia night? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-bb4a98d1",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a study plan for a trivia night.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-7a9adbae",
+        "sender": "human",
+        "text": "Fictional reply #2 about a study plan for a trivia night.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-53f17dd5",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a study plan for a trivia night.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-0333aeda",
+        "sender": "human",
+        "text": "Fictional reply #4 about a study plan for a trivia night.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-e4261a27",
+        "sender": "assistant",
+        "text": "Fictional reply #5 about a study plan for a trivia night.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-c7364bce",
+        "sender": "human",
+        "text": "Fictional reply #6 about a study plan for a trivia night.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-927e2c6f",
+        "sender": "assistant",
+        "text": "Fictional reply #7 about a study plan for a trivia night.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-5c38a7f5",
+        "sender": "human",
+        "text": "Fictional reply #8 about a study plan for a trivia night.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-b4a6b65e",
+        "sender": "assistant",
+        "text": "Fictional reply #9 about a study plan for a trivia night.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "0267dc09-c448-4482-9ccd-4e2c43ed33c7",
+    "name": "Fictional thread about an outline for a nature walk",
+    "summary": "A fictional summary about an outline for a nature walk.",
+    "created_at": "2025-12-23T19:00:00.000Z",
+    "updated_at": "2025-12-24T07:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-4fc54c21",
+        "sender": "human",
+        "text": "Can you help me think through an outline for a nature walk? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-5d4b8706",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about an outline for a nature walk.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-736baa6a",
+        "sender": "human",
+        "text": "Fictional reply #2 about an outline for a nature walk.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-0a7cc697",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about an outline for a nature walk.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  },
+  {
+    "uuid": "0228d3fb-1219-4fa2-808b-eb415120bdd8",
+    "name": "Fictional thread about a list of riddles for a scavenger hunt",
+    "summary": "A fictional summary about a list of riddles for a scavenger hunt.",
+    "created_at": "2026-01-16T17:00:00.000Z",
+    "updated_at": "2026-01-17T08:00:00.000Z",
+    "account": {
+      "uuid": "fictional-account"
+    },
+    "chat_messages": [
+      {
+        "uuid": "m-5b587583",
+        "sender": "human",
+        "text": "Can you help me think through a list of riddles for a scavenger hunt? This is a fictional message.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-674e4280",
+        "sender": "assistant",
+        "text": "Fictional reply #1 about a list of riddles for a scavenger hunt.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-ef4ff92f",
+        "sender": "human",
+        "text": "Fictional reply #2 about a list of riddles for a scavenger hunt.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-e1b1e7a7",
+        "sender": "assistant",
+        "text": "Fictional reply #3 about a list of riddles for a scavenger hunt.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      },
+      {
+        "uuid": "m-f467d353",
+        "sender": "human",
+        "text": "Fictional reply #4 about a list of riddles for a scavenger hunt.",
+        "content": [],
+        "attachments": [],
+        "files": [],
+        "created_at": "",
+        "updated_at": "",
+        "parent_message_uuid": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "reference_date": "2026-01-30T12:00:00.000Z",
+  "window_days": 30,
+  "cutoff": "2025-12-31T12:00:00.000Z",
+  "traps": {
+    "delta_older": "00e01b47-6fda-468d-9db9-63c3a388a7fa",
+    "delta_newer": "0156ab3d-d4e2-4271-b80c-2de17d642326",
+    "prev_only": "01001861-cb5b-4df9-befc-eebdc5e8d47e",
+    "no_title": "005e3bb0-c6dd-4625-a22d-c9b6d94f2d01",
+    "no_project": "03b2ecdf-905c-4b55-88c0-ae3fda26f53d",
+    "old_created_recent_update": "03b9d83a-7fae-4913-af1b-d97ea46832ab",
+    "delta_only": "011f88b5-e83a-45b9-9eec-0ad043b8dc68",
+    "delta_no_updated_at": "01ebb6a6-b755-4a0b-ae43-71f4fab4f897",
+    "mapping_protects_project": "032a23b3-6c4f-47f9-a593-5e408d4ad52c",
+    "delta_project_no_mapping": "004b2d1a-e639-4f1e-8bcd-1a1c1f01b599",
+    "search_probe": "03c7d088-9695-43cd-970a-2b6e4cf0628a"
+  },
+  "fictional_terms": {
+    "primary": "widget workshop",
+    "secondary": "gizmo parts",
+    "primary_occurrences_in_probe": 5,
+    "secondary_occurrences_in_probe": 3
+  }
+}

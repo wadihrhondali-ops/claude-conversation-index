@@ -1,0 +1,20 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install test dependencies
+        run: python -m pip install --quiet pytest
+      - name: Regenerate the fictional fixture
+        run: python -I -B tools/make_fixture.py --out-dir examples
+      - name: Run tests
+        run: python -m pytest -q

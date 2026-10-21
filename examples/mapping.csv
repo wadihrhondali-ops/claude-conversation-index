@@ -1,0 +1,40 @@
+uuid,title,created_at,updated_at,project_uuid,project_name
+00e01b47-6fda-468d-9db9-63c3a388a7fa,Delta-older trap,2026-01-20T12:00:00.000Z,2026-01-29T12:00:00.000Z,p-alpha,Project Alpha
+0156ab3d-d4e2-4271-b80c-2de17d642326,Delta-newer trap (stale title),2026-01-18T12:00:00.000Z,2026-01-27T12:00:00.000Z,p-alpha,Project Alpha
+005e3bb0-c6dd-4625-a22d-c9b6d94f2d01,,2026-01-26T12:00:00.000Z,2026-01-28T12:00:00.000Z,p-comet,Project Comet
+03b9d83a-7fae-4913-af1b-d97ea46832ab,Old-created-recent-update trap,2025-07-14T12:00:00.000Z,2026-01-25T12:00:00.000Z,p-driftwood,Project Driftwood
+01ebb6a6-b755-4a0b-ae43-71f4fab4f897,Delta-without-updated_at trap (unchanged),2026-01-22T12:00:00.000Z,2026-01-26T12:00:00.000Z,p-alpha,Project Alpha
+032a23b3-6c4f-47f9-a593-5e408d4ad52c,Mapping-protects-project trap (stale title),2026-01-21T12:00:00.000Z,2026-01-27T12:00:00.000Z,p-comet,Project Comet
+03c7d088-9695-43cd-970a-2b6e4cf0628a,Search-probe trap,2026-01-23T12:00:00.000Z,2026-01-29T12:00:00.000Z,p-bravo,Project Bravo
+02026213-8314-42a9-90e3-24ebbbff132d,Fictional thread about a weeknight pasta recipe,2026-01-04T22:00:00.000Z,2026-01-05T07:00:00.000Z,,
+018326d8-e56e-4575-864c-da3743100606,Fictional thread about a fictional planet's weather patterns,2026-01-02T18:00:00.000Z,2026-01-04T14:00:00.000Z,p-bravo,Project Bravo
+01d56ce6-349b-420b-a425-eb40fd6157ab,Fictional thread about a short story about a lighthouse keeper,2026-01-19T06:00:00.000Z,2026-01-20T05:00:00.000Z,p-bravo,Project Bravo
+00fb8352-89d1-43a2-9618-b65703b1bc9f,Fictional thread about garden layout ideas for a balcony,2025-12-28T05:00:00.000Z,2025-12-28T11:00:00.000Z,p-comet,Project Comet
+02aeb395-df4d-4b26-be9f-106ebc6a61a5,Fictional thread about a workout routine for beginners,2025-12-25T23:00:00.000Z,2025-12-27T11:00:00.000Z,,
+01f5b6b1-d957-49c5-bffa-a11043b0895a,Fictional thread about notes for a book club discussion,2026-01-17T15:00:00.000Z,2026-01-19T13:00:00.000Z,p-driftwood,Project Driftwood
+00847cbd-4ba2-416c-bd48-4aa5ecc91e7f,Fictional thread about debugging a sorting function,2026-01-11T12:00:00.000Z,2026-01-12T18:00:00.000Z,p-alpha,Project Alpha
+03d22204-49bf-4392-a6ca-95c93e6947dc,Fictional thread about a travel itinerary for a long weekend,2025-12-20T08:00:00.000Z,2025-12-21T01:00:00.000Z,p-alpha,Project Alpha
+017f6f84-0e2e-449a-b7a8-5ade063c4386,Fictional thread about budget spreadsheet formulas,2026-01-08T18:00:00.000Z,2026-01-08T23:00:00.000Z,p-flux,Project Flux
+00889979-83da-4776-9edd-789c30dadb41,Fictional thread about a lesson plan about photosynthesis,2026-01-29T18:00:00.000Z,2026-01-30T12:00:00.000Z,p-alpha,Project Alpha
+030080e6-cca0-44c3-9b0a-22c4ba421b18,Fictional thread about naming ideas for a pet turtle,2026-01-23T18:00:00.000Z,2026-01-25T01:00:00.000Z,,
+028a5245-aa34-470d-8cd8-7de8653c0d0a,Fictional thread about a packing list for a camping trip,2025-12-26T07:00:00.000Z,2025-12-26T08:00:00.000Z,,
+0323e7ea-eb55-4ea8-b472-c043f6c09814,Fictional thread about a crossword puzzle theme,2026-01-29T18:00:00.000Z,2026-01-30T12:00:00.000Z,p-ember,Project Ember
+016fd612-4144-4697-92b3-a6a8b1bf2963,Fictional thread about tips for a sourdough starter,2026-01-10T01:00:00.000Z,2026-01-10T02:00:00.000Z,p-ember,Project Ember
+023a4fd7-2cb3-4fe1-9283-7298be019e1c,Fictional thread about a board game house rules draft,2026-01-30T10:00:00.000Z,2026-01-30T12:00:00.000Z,,
+00366627-9ce5-4ae9-914e-9134e36066f1,Fictional thread about a poem about autumn leaves,2025-12-11T00:00:00.000Z,2025-12-12T20:00:00.000Z,p-driftwood,Project Driftwood
+02d689b1-9453-4d1b-82a8-bf9af688633b,Fictional thread about a checklist for a garage sale,2025-12-19T22:00:00.000Z,2025-12-20T03:00:00.000Z,p-comet,Project Comet
+029e98d6-cafc-4be9-80f4-951c501ba7de,Fictional thread about notes on an imaginary constellation,2026-01-03T12:00:00.000Z,2026-01-04T15:00:00.000Z,p-alpha,Project Alpha
+006d9f80-01cd-483a-8d41-df6d829b7cc0,Fictional thread about a practice quiz about fractions,2026-01-28T18:00:00.000Z,2026-01-29T08:00:00.000Z,p-driftwood,Project Driftwood
+01e481ad-1d77-49e1-b0cb-98b6452957bb,Fictional thread about ideas for a neighborhood picnic,2026-01-22T22:00:00.000Z,2026-01-22T22:00:00.000Z,p-bravo,Project Bravo
+014c9b9b-ba53-418c-b383-0c4bd0410db2,Fictional thread about a playlist for a road trip,2025-12-09T14:00:00.000Z,2025-12-10T09:00:00.000Z,,
+00fa02df-673e-4f8d-8099-13d18933e2ba,Fictional thread about a template for a weekly chore chart,2025-12-03T20:00:00.000Z,2025-12-03T20:00:00.000Z,,
+03b825e1-8ba3-4b2a-9651-c470a00bf58c,Fictional thread about a comparison of two fictional cities,2025-12-14T14:00:00.000Z,2025-12-16T00:00:00.000Z,p-bravo,Project Bravo
+01b9348b-703b-43ec-acf7-0393effe4588,Fictional thread about a bedtime story about a kind dragon,2026-01-24T10:00:00.000Z,2026-01-24T18:00:00.000Z,,
+037c50a0-f407-4470-b485-5eb176f44b99,Fictional thread about a outline for a woodworking project,2026-01-28T13:00:00.000Z,2026-01-29T08:00:00.000Z,,
+03f092f8-ebdd-44d8-8e10-b78d83840d36,Fictional thread about a plan for a herb garden,2025-12-22T10:00:00.000Z,2025-12-23T20:00:00.000Z,p-driftwood,Project Driftwood
+029ba206-bfd4-4f6c-baf6-4e205c93dfd0,Fictional thread about notes on an imaginary board game,2025-12-12T16:00:00.000Z,2025-12-13T13:00:00.000Z,p-bravo,Project Bravo
+01579b27-ad6e-4109-b000-83787f964d81,Fictional thread about a recipe for vegetable soup,2026-01-11T19:00:00.000Z,2026-01-12T01:00:00.000Z,p-alpha,Project Alpha
+02f9bfd2-8402-4d10-8047-cfe197005574,Fictional thread about a draft toast for a birthday party,2025-12-21T12:00:00.000Z,2025-12-23T06:00:00.000Z,,
+02755d7a-8289-429d-b5da-c14bb97ed7cb,Fictional thread about a study plan for a trivia night,2026-01-25T21:00:00.000Z,2026-01-26T17:00:00.000Z,p-driftwood,Project Driftwood
+0267dc09-c448-4482-9ccd-4e2c43ed33c7,Fictional thread about an outline for a nature walk,2025-12-23T19:00:00.000Z,2025-12-24T07:00:00.000Z,p-ember,Project Ember
+0228d3fb-1219-4fa2-808b-eb415120bdd8,Fictional thread about a list of riddles for a scavenger hunt,2026-01-16T17:00:00.000Z,2026-01-17T08:00:00.000Z,p-comet,Project Comet
